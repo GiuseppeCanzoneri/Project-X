@@ -6,7 +6,19 @@ export const Services = props => {
       <div className="container">
         <div className="section-title">
           <h2>Music Schedule</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+          <p>
+            Dive into an electrifying night filled with pulsating beats and incredible performances at our exclusive
+            event. The evening kicks off with the mesmerizing tunes of renowned DJs such as Nina Kravitz, Martin Garrix,
+            Amelie Lens, and many more. Immerse yourself in the music and dance the night away under the starlit sky. As
+            the night unfolds, experience the dynamic beats of Dimitri Vegas & Like Mike, the energetic sounds of
+            Hardwell, and the eclectic tunes of Salvatore Ganacci. The night will be topped off with the enchanting sets
+            of Charlotte de Witte and Afrojack, creating an unforgettable atmosphere. Our program is carefully curated
+            to provide a seamless flow of music genres, ensuring a diverse and exciting musical journey. From
+            progressive beats to heart-pounding rhythms, our lineup guarantees an unparalleled experience for all music
+            enthusiasts. Join us as we celebrate the spirit of music and entertainment. The festivities continue
+            throughout the night, with the last notes fading away at 8:00 AM. Get ready for an unforgettable night of
+            music, dancing, and unparalleled energy!
+          </p>
         </div>
         <div className="schedule-timeline">
           {props.data

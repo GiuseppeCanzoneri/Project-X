@@ -1,12 +1,12 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Join the Ultimate Party Experience!",
+    "paragraph": "Get ready for an electrifying night with top DJs, breathtaking music, and an atmosphere that will leave you breathless. Join us for an unforgettable celebration!"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": ["Lorem ipsum dolor", "Tempor incididunt", "Lorem ipsum dolor", "Incididunt ut labore"],
-    "Why2": ["Aliquip ex ea commodo", "Lorem ipsum dolor", "Exercitation ullamco", "Lorem ipsum dolor"]
+    "paragraph": "Welcome to Project-X , where passion meets music. Our journey began with a simple yet powerful idea – to create unforgettable experiences through the magic of sound. Join us as we embark on a sonic adventure, crafting moments that resonate with the rhythm of your soul.",
+    "Why": ["Passionate Expertise", " Passionate Expertise", "Creative Innovation", "Dedication to Excellence"],
+    "Why2": ["Customer Satisfaction", "Unforgettable Events", "Proven Track Record", "Commitment to Success"]
   },
   "Gallery": [
     {
@@ -57,45 +57,75 @@
   ],
   "Services": [
     {
-      "time": "12:00 PM",
-      "artist": "AfroJack",
-      "image": "https://vivimilano.corriere.it/wp-content/uploads/2023/04/afrojack-al-justme.jpeg?v=968486"
+      "time": "10:00 PM",
+      "artist": "Martin Garrix",
+      "image": "https://monkeybuzz.com.br/wp-content/uploads/2017/03/martin-garrix-lolla-58c1c857dd740.jpg"
     },
     {
-      "time": "02:30 PM",
+      "time": "11:00 PM",
       "artist": "Hardwell",
       "image": "https://weraveyou.com/wp-content/uploads/2022/07/hardwell-tomorrowland-2022.jpeg"
+    },
+    {
+      "time": "12:00 PM",
+      "artist": "Charlotte de Witte",
+      "image": "https://i.ytimg.com/vi/z4DhwEKsURY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDbR-QkKBr9kc8CPcAwSx2jU1QezA"
+    },
+    {
+      "time": "01:00 AM",
+      "artist": "Salvatore Ganacci",
+      "image": "https://cdn.zero.eu/uploads/2019/08/GAnacci.jpg"
+    },
+    {
+      "time": "02:00 AM",
+      "artist": "Dimitri Vegas & Like Mike",
+      "image": "https://edmhousenetwork.com/wp-content/uploads/2019/10/190727-233321-TML2019-KV-4434-HR.jpg"
+    },
+    {
+      "time": "03:00 AM",
+      "artist": "Amelie Lens",
+      "image": "https://static.ra.co/images/news/2022/amelie-lens-ibiza.jpg"
+    },
+    {
+      "time": "04:00 AM",
+      "artist": "Nina Kraviz",
+      "image": "https://outline.it/wp-content/uploads/Nina-Kraviz-at-First-Festival-with-Outline_5.jpeg"
+    },
+    {
+      "time": "05:00 AM",
+      "artist": "AfroJack",
+      "image": "https://vivimilano.corriere.it/wp-content/uploads/2023/04/afrojack-al-justme.jpeg?v=968486"
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"From start to finish, Project-X showcased unparalleled excellence. The blend of diverse sounds and the enthusiastic crowd made it a night filled with pure joy.\"",
+      "name": "Benjamin Davis"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"The attention to detail and the seamless flow of beats demonstrated Project-X's commitment to creating a top-tier event. It was more than a party; it was a symphony of happiness and rhythm.\"",
+      "name": "Ethan Johnson"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Project-X doesn't just host events; they craft magical experiences. The fusion of music genres and the vibrant crowd created a pulsating energy that lingered in the air, making it an extraordinary night.\"",
+      "name": "Emma Thompson"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Immersing myself in the electrifying beats and dynamic atmosphere of the party was an experience like no other. The energy, the music, and the people created an unforgettable night that will forever be etched in my memory.\"",
+      "name": "Olivia Taylor"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"The seamless fusion of music genres, coupled with the pulsating rhythm of the crowd, made the event an absolute delight. Project-X knows how to curate a musical journey that resonates with every beat of the heart.\"",
+      "name": "Ava Williams"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Project-X exceeded all expectations, delivering an immersive experience that left me craving for more. The ambiance, the tunes, and the camaraderie created an electric atmosphere that defined the epitome of musical ecstasy.\"",
       "name": "Johnathan Doe"
     }
   ],
@@ -125,43 +155,43 @@
   "Features": [
     {
       "image": "https://www.interviewmagazine.com/wp-content/uploads/2018/05/Nina-Kravitz_Maya-Fuhr1.jpg",
-      "title": "dio ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Nina Kravitz",
+      "text": "Dive into the vibrant sounds of Nina Kravitz, an electronic music sensation.  "
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Martin_Garrix_Come_Up_Show_cropped.jpg/220px-Martin_Garrix_Come_Up_Show_cropped.jpg  ",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Martin Garrix",
+      "text": "Experience the extraordinary beats of Martin Garrix, a maestro in the realm of electronic dance music."
     },
     {
       "image": "https://trifec.one/wp-content/uploads/2023/02/AmelieLens8_by_Zeb_Daemen-2-e1684168544102.jpg",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Amelie Lens",
+      "text": "Embark on a sonic exploration with Amelie Lens, a luminary in the electronic music scene. "
     },
     {
       "image": "https://protocol-recordings.com/wp-content/uploads/dimitri_vegas_like_mike.jpg",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Dimitri Vegas & Like Mike",
+      "text": "Experience the dynamic beats of Dimitri Vegas & Like Mike, a powerhouse duo in the electronic dance music scene."
     },
     {
       "image": "https://media.gqitalia.it/photos/5c0661c3152da155dc68c2e9/1:1/w_635,h_635,c_limit/1527796529_Hardwell-2018-002_PhotoCredit_Gerard_Henninger-copia.jpg",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Hardwell",
+      "text": "Feel the pulse-pounding rhythms of Hardwell, an icon in the electronic dance music landscape."
     },
     {
       "image": "https://images.squarespace-cdn.com/content/v1/52caf22ee4b05977ab043ee9/1525817823894-TJ0K3QAVL6TYNVRUUK6T/SG",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Salvatore Ganacci",
+      "text": "Embark on a musical adventure with Salvatore Ganacci, a maestro of eclectic beats and boundless creativity."
     },
     {
       "image": "https://images.sk-static.com/images/media/profile_images/artists/8805714/huge_avatar",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Charlotte De Witte",
+      "text": "Immerse yourself in the hypnotic beats of Charlotte de Witte, an electronic music luminary known for her dark and intense soundscapes.  "
     },
     {
       "image": "https://cdns-images.dzcdn.net/images/artist/73ac0571eb4a75e4158b146b44b02f7b/500x500.jpg",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Afrojack",
+      "text": "Feel the energetic vibes with Afrojack, a powerhouse in the world of electronic dance music. "
     }
   ]
 }

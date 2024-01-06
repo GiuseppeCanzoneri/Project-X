@@ -331,6 +331,80 @@ header .intro-text {
   line-height: 24px;
   margin: 30px 0;
 }
+
+/* Pricing */
+
+.pricing-section {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.pricing-cards-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pricing-card {
+  width: 300px;
+  margin: 0 10px;
+  border: 2px solid #3498db; /* Bordo più spesso */
+  padding: 20px;
+  transition: transform 0.3s ease-in-out;
+  border-bottom: 2px solid #3498db; /* Aggiungi bordo inferiore per la linea tra le card */
+}
+
+.pricing-card:hover {
+  transform: scale(1.05);
+}
+
+.pricing-card h3 {
+  font-size: 24px;
+  border-bottom: 4px solid #3498db; /* Aggiungi riga sotto il titolo */
+  padding-bottom: 10px;
+}
+
+.pricing-card h4 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #3498db;
+}
+
+.pricing-card p {
+  font-size: 16px;
+  border-bottom: 1px solid #3498db; /* Aggiungi bordo inferiore per la linea tra i paragrafi */
+  padding-bottom: 10px; /* Aggiungi spaziatura inferiore */
+}
+
+/* Media query per dispositivi con larghezza massima di 768px (ad esempio, dispositivi mobili) */
+@media (max-width: 768px) {
+  .pricing-cards-container {
+    flex-direction: column;
+  }
+
+  .pricing-card {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 2px solid #3498db; /* Bordo più spesso */
+    padding: 20px; /* Spaziatura interna */
+  }
+}
+
+/* Media query per dispositivi con larghezza massima di 992px (ad esempio, tablet) */
+@media (max-width: 992px) {
+  .pricing-cards-container {
+    flex-direction: row; /* Ripristina l'orientamento a riga per gli elementi quando la larghezza è inferiore a 992px */
+    flex-wrap: wrap; /* Consente al contenitore di avvolgere le card su più righe se necessario */
+    justify-content: space-around;
+  }
+
+  .pricing-card {
+    width: calc(33.333% - 20px); /* Occupa circa un terzo della larghezza disponibile, con spaziatura tra le card */
+    margin-bottom: 20px;
+    border: 2px solid #3498db; /* Bordo più spesso */
+    padding: 20px; /* Spaziatura interna */
+  }
+}
+
 /* Services Section */
 #music-schedule {
   padding: 100px 0;

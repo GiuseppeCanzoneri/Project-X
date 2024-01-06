@@ -6,7 +6,12 @@ export const Team = props => {
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Sponsor</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+          <p>
+            "We extend our gratitude to our generous sponsors who make this unique event possible. Their support and
+            commitment contribute to creating an extraordinary experience for all participants. We are thankful for
+            their trust and collaboration in organizing an event that celebrates music and culture in an unforgettable
+            way."
+          </p>
         </div>
         <div id="row">
           {props.data
