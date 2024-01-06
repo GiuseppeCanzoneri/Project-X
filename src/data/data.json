@@ -1,0 +1,167 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": ["Lorem ipsum dolor", "Tempor incididunt", "Lorem ipsum dolor", "Incididunt ut labore"],
+    "Why2": ["Aliquip ex ea commodo", "Lorem ipsum dolor", "Exercitation ullamco", "Lorem ipsum dolor"]
+  },
+  "Gallery": [
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project-X",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "time": "12:00 PM",
+      "artist": "AfroJack",
+      "image": "https://vivimilano.corriere.it/wp-content/uploads/2023/04/afrojack-al-justme.jpeg?v=968486"
+    },
+    {
+      "time": "02:30 PM",
+      "artist": "Hardwell",
+      "image": "https://weraveyou.com/wp-content/uploads/2022/07/hardwell-tomorrowland-2022.jpeg"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.png"
+    },
+
+    {
+      "img": "img/team/2.png"
+    },
+    {
+      "img": "img/team/3.png"
+    },
+    {
+      "img": "img/team/4.png"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "image": "https://www.interviewmagazine.com/wp-content/uploads/2018/05/Nina-Kravitz_Maya-Fuhr1.jpg",
+      "title": "dio ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Martin_Garrix_Come_Up_Show_cropped.jpg/220px-Martin_Garrix_Come_Up_Show_cropped.jpg  ",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "image": "https://trifec.one/wp-content/uploads/2023/02/AmelieLens8_by_Zeb_Daemen-2-e1684168544102.jpg",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "image": "https://protocol-recordings.com/wp-content/uploads/dimitri_vegas_like_mike.jpg",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "image": "https://media.gqitalia.it/photos/5c0661c3152da155dc68c2e9/1:1/w_635,h_635,c_limit/1527796529_Hardwell-2018-002_PhotoCredit_Gerard_Henninger-copia.jpg",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "image": "https://images.squarespace-cdn.com/content/v1/52caf22ee4b05977ab043ee9/1525817823894-TJ0K3QAVL6TYNVRUUK6T/SG",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/8805714/huge_avatar",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "image": "https://cdns-images.dzcdn.net/images/artist/73ac0571eb4a75e4158b146b44b02f7b/500x500.jpg",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
