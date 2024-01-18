@@ -1,3 +1,27 @@
+# Project-X Party
+
+Benvenuto su Project-X, l'evento che trasforma la tua festa in un'esperienza epica ispirata al film leggendario. Preparati per una notte indimenticabile, dove la musica avvolge l'atmosfera e i DJ famosi creano un'esplosione di energia.
+
+## Chi Siamo
+Project-X è molto più di una festa. È un'immersione totale nell'universo festoso, ispirato al film cult. Siamo un team di appassionati che porta la magia del grande schermo nella vita reale. Abbiamo selezionato attentamente DJ famosi per garantire un sottofondo musicale straordinario.
+
+## Cosa Aspettarti
+- **Esperienza Cinematografica:** Rivivi l'atmosfera del film Project-X con scenografie e dettagli accurati che trasporteranno tutti i partecipanti in un mondo di puro divertimento.
+- **Lineup di DJ Famosi:** Balla tutta la notte con le tracce dei migliori DJ internazionali, pronti a far scoppiare la festa.
+- **Intrattenimento Live:** Oltre alla musica, preparati per performance live e sorprese che renderanno l'evento indimenticabile.
+- **Ambiente Unico:** Un'atmosfera vibrante, illuminazione mozzafiato e un allestimento progettato per stupire.
+
+## Partecipa
+Non perdere l'occasione di essere parte di questa festa epica. Acquista il tuo biglietto ora e preparati a essere parte di Project-X. La festa che supera ogni aspettativa.
+
+[Acquista il Tuo Biglietto](#) | [Seguici su Instagram](#) | [Contattaci](#)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
