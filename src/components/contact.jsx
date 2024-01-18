@@ -42,9 +42,6 @@ export const Contact = props => {
             <div className="row">
               <div className="section-title">
                 <h2>Get In Touch</h2>
-                <p style={{ color: "black" }}>
-                  Please fill out the form below to send us an email and we will get back to you as soon as possible.
-                </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
@@ -150,7 +147,10 @@ export const Contact = props => {
       </div>
       <div id="footer">
         <div className="container text-center">
-          <p>&copy; 2024 Project-X. Design by Giuseppe Canzoneri </p>
+          <p>
+            &copy; 2024 Project-X. Design by Giuseppe <br />
+            Canzoneri{" "}
+          </p>
         </div>
       </div>
     </div>
